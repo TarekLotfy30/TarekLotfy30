@@ -46,6 +46,19 @@
 </div>
 <br>
 
+## :flashlight: Problem Solving 
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/tareklotfi123" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="39" width="40" />
+  </a>
+  <a href="https://www.codewars.com/users/TarekLotfy30" target="blank">
+    <img alt="Codewars Profile" src="https://docs.codewars.com/logo.svg" width="40" />
+  </a>
+</div>
+
+</div>
+
 ## 🤝 Connect With Me:
 
 <div align="center">
@@ -61,37 +74,8 @@
 </div>
 
 <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## :flashlight: Problem Solving 
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/tareklotfi123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="39" width="40" />
-  </a>
-  <a href="https://www.codewars.com/users/TarekLotfy30" target="blank">
-    <img alt="Codewars Profile" src="https://docs.codewars.com/logo.svg" width="40" />
-  </a>
-</div>
-
-</div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareklotfy30" alt="tareklotfy30" /></a> </p>
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
-</h3>
 
-<br/>
 
 
