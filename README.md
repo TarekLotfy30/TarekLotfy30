@@ -41,7 +41,6 @@
 
 <br>
 
-
  <!-- ======= Flutter Skills ======= -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Flutter Skills:</b>
 - Experience in developing mobile applications using Flutter framework.
@@ -54,7 +53,6 @@
 
 <br>
 
-
  <!-- ======= Github Stats Section ======= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>:
 
@@ -63,18 +61,6 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tareklotfy30&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tareklotfy30" />
 </p>
-
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarekLotfy30&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareklotfy30&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="tareklotfy30" />
-</p>
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=tareklotfy30&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tareklotfy30" />
-</p>
--->
 
 <br>
 
@@ -103,27 +89,6 @@
 </p>
 
 <br>
-
-
- <!-- ======= Repository Overview Section ======= -->
- <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
-
-<a href="https://github.com/Mohamed-khaled0/E-Commerce-IOS-CodeAlpha-Internship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=E-Commerce-IOS-CodeAlpha-Internship&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Mohamed-khaled0/Clima-Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Clima-Weather-App&theme=tokyonight" />
-</a>
-
-
-
-<a href="https://github.com/Mohamed-khaled0/Easy-Notes-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Easy-Notes-App&theme=tokyonight" />
-</a>
-
-<br>
--->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
