@@ -83,7 +83,7 @@
     <a href="https://github.com/TarekLotfy30"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/tarek-lotfi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:tareklotfi789@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-    <a href="https://t.me/TarekLotfi3010"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+    <a href="https://t.me/tarek_lotfi"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
 </p>
 
 <br>
