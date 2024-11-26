@@ -1,9 +1,3 @@
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
 <!-- ======= Header Section ======= -->
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=cyan&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tarek+%F0%9F%91%8B;;" alt="Headline" />
@@ -86,12 +80,4 @@
     <a href="https://t.me/tarek_lotfi"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
 </p>
 
-<br>
 
-### ✍️ Random Dev Quote
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<br>
