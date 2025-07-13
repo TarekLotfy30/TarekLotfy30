@@ -1,12 +1,3 @@
-<!-- ======= Header Section ======= -->
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=cyan&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tarek+%F0%9F%91%8B;;" alt="Headline" />
-</div>
- 
-<p align="center">
-  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Mobile+Developer"></a>
-</p>
-
 <!-- ======= About Section ======= -->
 ## 🙋‍♂️ About Me:
 
@@ -14,7 +5,7 @@
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/TarekLotfy30?tab=repositories)**.
 
 <div align="center">
-    <a href="https://drive.google.com/file/d/1t1di5QGwZqCjSzDSzOf9SJFcjvtqpUF_/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1RTDWjIUZZ8cW2aKisDIKV1X8sOVhSUZ6/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=files&logoColor=white" />
     </a>
 </div>
@@ -37,7 +28,7 @@
 
 - Experience in developing mobile applications using the Flutter framework.
 - Excellent understanding of the full mobile development life cycle.
-- Networking & Data Persistent: Proficiency in Restful APIs, Dio, HTTP, Hive, Firebase.
+- Networking & Data Persistence: Proficiency in Restful APIs, Dio, HTTP, Hive, Firebase.
 - Experience in Git and GitHub for version control and collaboration.
 - Experience with Bloc for state management.
 - Excellent understanding of OOP, Architecture Design Patterns, and SOLID Principles.
