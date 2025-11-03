@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/TarekLotfy30?tab=repositories)**.
 
 <div align="center">
-    <a href="https://docs.google.com/document/d/1xje9vart0UOoiNzlGa8fBi0Ncmm6JpXr/edit?usp=sharing&ouid=110562906787684492079&rtpof=true&sd=true" target="_blank">
+    <a href="https://drive.google.com/file/d/14y53-DOjtWTeWeJCoZZsC4kNGyGYAWiv/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=files&logoColor=white" />
     </a>
 </div>
