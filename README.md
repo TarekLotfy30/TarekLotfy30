@@ -23,8 +23,8 @@ specialize in building cross-platform mobile applications using Dart and Flutter
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,c,java" /><br><br>
-    <img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,figma,postman" /><br><br>
-    <img src="https://skillicons.dev/icons?i=linux,html,css,nodejs,mongodb,mysql,sqlite,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,visualstudio,figma,postman" /><br><br>
+    <img src="https://skillicons.dev/icons?i=linux,html,css,nodejs,mongodb,mysql,sqlite,ubuntu,markdown,notion,stackoverflow" />
 </div>
 
 <br>
@@ -88,6 +88,8 @@ specialize in building cross-platform mobile applications using Dart and Flutter
 
 <!-- ======= Quotes Section ======= -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteCategory=programming)
+
+
 
 <!-- <h2> Samples from my projects </h2>
 
