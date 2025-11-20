@@ -24,7 +24,7 @@ specialize in building cross-platform mobile applications using Dart and Flutter
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,c,java" /><br><br>
     <img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,figma,postman" /><br><br>
-    <img src="https://skillicons.dev/icons?i=linux,html,css,nodejs,mongodb,mysql,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,nodejs,mongodb,mysql,sqlite,ubuntu" />
 </div>
 
 <br>
@@ -51,6 +51,10 @@ specialize in building cross-platform mobile applications using Dart and Flutter
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tareklotfy30&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tareklotfy30" />
 </p>
 
+<p align="left">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TarekLotfy30&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</p>
+
 <br>
 
 <!-- ======= Problem Solving Section ======= -->
@@ -75,6 +79,31 @@ specialize in building cross-platform mobile applications using Dart and Flutter
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/tarek-lotfi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:tareklotfi789@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://t.me/tarek_lotfi"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+    <!-- WhatsApp button to match your existing icon style -->
+<a
+  href="https://wa.me/201556628714?text=Hello%20Tarek%2C%20I%27d%20like%20to%20connect%20about%20your%20work."
+  title="Chat on WhatsApp"
+  target="_blank"
+  rel="noopener noreferrer"
+  onclick="/* Try native WhatsApp first on mobile, then let the href (wa.me) handle fallback */ 
+    (function(e){
+      var phone = '201556628714';
+      var native = 'whatsapp://send?phone=' + phone + '&text=' + encodeURIComponent('Hello Tarek, I\'d like to connect about your work.');
+      // On some mobile browsers, opening whatsapp:// will trigger the native app.
+      // Attempt it briefly; if it fails, the browser will still follow the href.
+      window.location = native;
+      // Let the browser still follow the anchor's href after a short delay.
+      setTimeout(function(){}, 500);
+      // Do not prevent default — allow fallback to wa.me.
+    })();"
+>
+  <img
+    src="https://img.icons8.com/bubbles/50/000000/whatsapp.png"
+    alt="WhatsApp"
+    style="vertical-align:middle;"
+  />
+</a>
+
 </p>
 
 
